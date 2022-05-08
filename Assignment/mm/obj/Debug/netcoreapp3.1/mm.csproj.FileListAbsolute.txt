@@ -1,0 +1,14 @@
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\bin\Debug\netcoreapp3.1\mm.exe
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\bin\Debug\netcoreapp3.1\mm.deps.json
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\bin\Debug\netcoreapp3.1\mm.runtimeconfig.json
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\bin\Debug\netcoreapp3.1\mm.runtimeconfig.dev.json
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\bin\Debug\netcoreapp3.1\mm.dll
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\bin\Debug\netcoreapp3.1\mm.pdb
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.csproj.AssemblyReference.cache
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.AssemblyInfoInputs.cache
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.AssemblyInfo.cs
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.csproj.CoreCompileInputs.cache
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.dll
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.pdb
+C:\Users\Luca LEMARCHAND\source\repos\Assignment\mm\obj\Debug\netcoreapp3.1\mm.genruntimeconfig.cache
